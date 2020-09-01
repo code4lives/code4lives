@@ -6,7 +6,7 @@ Even you can help stop COVID-19
   
 [Donate Money To Charities]()
 
-To help us code create an issue in our [repo](https://github.com/code4lives/code4lives)
+To help us code by create an issue in our [repo](https://github.com/code4lives/code4lives)
 
 
 More Coming Soon
