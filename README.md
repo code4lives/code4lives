@@ -4,20 +4,22 @@ Even you can help stop COVID-19
 COVID-19 Has harmed and/or killed many people. We dont want that to happen. We want a cure! So help us out!
 
 ## Ways you can help 
-<li>
+
   [Fold At Home](http://foldingathome.org) Donates Your CPU Power To Help Stop COVID-19
-  </li>
-  <li>
+
+
 [Donate Money To Charities]()
-</li>
-<li>
+
 To help us code by create an issue in our [repo](https://github.com/code4lives/code4lives)
 </li>
 <li>
 Add your site to our [WebRing]()
 
 <li>
-
+[list]
+  [*] A
+  [*] B
+[/list]
 ## Ways To Stay Safe During The Pandemic
 Wash your hands for **20 Seconds** every **2 Hours**
 Wear a mask when you go **out**
