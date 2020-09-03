@@ -11,15 +11,11 @@ COVID-19 Has harmed and/or killed many people. We dont want that to happen. We w
 [Donate Money To Charities]()
 
 To help us code by create an issue in our [repo](https://github.com/code4lives/code4lives)
-</li>
-<li>
+
 Add your site to our [WebRing]()
 
-</li>
-[list]
-  [*] A
-  [*] B
-[/list]
+
+
 ## Ways To Stay Safe During The Pandemic
 Wash your hands for **20 Seconds** every **2 Hours**
 Wear a mask when you go **out**
