@@ -15,7 +15,7 @@ To help us code by create an issue in our [repo](https://github.com/code4lives/c
 <li>
 Add your site to our [WebRing]()
 
-<li>
+</li>
 [list]
   [*] A
   [*] B
