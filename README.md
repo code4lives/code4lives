@@ -1,4 +1,4 @@
-## Coding4Lives
+# Coding4Lives
 Even you can help stop COVID-19
 
 COVID-19 Has harmed and/or killed many people. We dont want that to happen. We want a cure! So help us out!
