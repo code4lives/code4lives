@@ -17,9 +17,9 @@ Add your site to our [WebRing]()
 
 
 ## Ways To Stay Safe During The Pandemic
-<li>Wash your hands for **20 Seconds** every **2 Hours**</li>
+Wash your hands for **20 Seconds** every **2 Hours**
 
-<li>Wear a mask when you go **out**</li>
+Wear a mask when you go **out**
 
-<li>**Always Social Distance** Except when your at home. The recremonded distance is atleast **6ft** away.</li>
+**Always Social Distance** Except when your at home. The recremonded distance is atleast **6ft** away.
 
