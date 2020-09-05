@@ -1,3 +1,6 @@
+# Disclaimer
+This project died 2 months ago, please leave.
+
 # Coding4Lives
 Even you can help stop COVID-19
 
